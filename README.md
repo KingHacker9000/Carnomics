@@ -1,6 +1,3 @@
 # About
 
-python prject to determine the cost of \n
-  -> Buying
-  -> Renting
-A Car
+python prject to determine the cost of  -> Buying  -> Renting  A Car
