@@ -14,5 +14,7 @@ print Main Menu
     Rental:
         Give List of Cars / Input monthlyRate
         How many Years
-        yearlyPrice = months * monthlyRate / 1200
-        Print yearlyPrice
+        Price = months * monthlyCost
+        Print Price
+
+    #Sell:
