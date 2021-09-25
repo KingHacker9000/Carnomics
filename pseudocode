@@ -1,0 +1,18 @@
+print Welcome
+
+print Main Menu
+    Buy:
+        Give List of Cars / Input Own Price, MaintainanceCost%
+        
+        How many Years
+        Mode of payment:
+            One time payment
+            EMI
+        Price = priceofCar + Years * MaintainanceCost% / 100
+        Print Price
+
+    Rental:
+        Give List of Cars / Input monthlyRate
+        How many Years
+        yearlyPrice = months * monthlyRate / 1200
+        Print yearlyPrice
